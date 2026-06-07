@@ -1,0 +1,14 @@
+pyproject.toml
+src/uaap/__init__.py
+src/uaap/agent_auth.py
+src/uaap/cli.py
+src/uaap/mcp_server.py
+src/uaap/revocation.py
+src/uaap/server.py
+src/uaap/verifier.py
+src/uaap_protocol.egg-info/PKG-INFO
+src/uaap_protocol.egg-info/SOURCES.txt
+src/uaap_protocol.egg-info/dependency_links.txt
+src/uaap_protocol.egg-info/entry_points.txt
+src/uaap_protocol.egg-info/requires.txt
+src/uaap_protocol.egg-info/top_level.txt

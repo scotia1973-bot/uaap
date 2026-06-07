@@ -1,0 +1,22 @@
+Metadata-Version: 2.4
+Name: uaap-protocol
+Version: 0.1.0
+Summary: Universal Agent Authorization Protocol — the SSL/TLS of the AI agent economy
+Author-email: GadgetHumans <scotia1973@gmail.com>
+License: MIT
+Project-URL: Homepage, https://api.gadgethumans.com
+Project-URL: Documentation, https://github.com/scotia1973-bot/uaap
+Project-URL: Repository, https://github.com/scotia1973-bot/uaap
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Internet :: WWW/HTTP :: Session
+Classifier: Topic :: Security :: Cryptography
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: pydantic>=2.0
+Requires-Dist: cryptography>=41.0
+Requires-Dist: httpx>=0.25
+Requires-Dist: py-multibase>=1.0
+Requires-Dist: pyld>=2.0

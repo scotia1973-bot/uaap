@@ -1,0 +1,3 @@
+[console_scripts]
+uaap = uaap.cli:main
+uaap-server = uaap.server:main
