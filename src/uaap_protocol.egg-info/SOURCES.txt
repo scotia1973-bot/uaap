@@ -1,3 +1,4 @@
+LICENSE
 pyproject.toml
 src/uaap/__init__.py
 src/uaap/agent_auth.py

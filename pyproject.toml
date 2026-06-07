@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "uaap-protocol"
-version = "0.1.0"
+version = "0.1.1"
 description = "Universal Agent Authorization Protocol — the SSL/TLS of the AI agent economy"
 authors = [{ name = "GadgetHumans", email = "scotia1973@gmail.com" }]
 license = { text = "Apache-2.0" }
