@@ -278,6 +278,6 @@ assert "tools:qr:generate" in result.effective_scope.actions
 
 ---
 
-**License:** MIT
+**License:** Apache 2.0
 **Repository:** github.com/scotia1973-bot/uaap
 **MCP Server:** uvx uaap-mcp-server

@@ -7,13 +7,12 @@ name = "uaap-protocol"
 version = "0.1.0"
 description = "Universal Agent Authorization Protocol — the SSL/TLS of the AI agent economy"
 authors = [{ name = "GadgetHumans", email = "scotia1973@gmail.com" }]
-license = { text = "MIT" }
+license = { text = "Apache-2.0" }
 readme = "README.md"
-requires-python = ">=3.10"
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache Software License",
     "Programming Language :: Python :: 3",
     "Topic :: Internet :: WWW/HTTP :: Session",
     "Topic :: Security :: Cryptography",
